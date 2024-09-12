@@ -65,7 +65,7 @@
 }
 
 .container img:hover {
-    transform: scale(1.1);
+    transform: scale(1.05);
     transition: 0.5s ease;
     box-shadow: 10px 10px 5px #7cc6e5;
 }
